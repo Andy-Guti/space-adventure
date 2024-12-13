@@ -1,0 +1,1 @@
+. "/Users/akutlay/git/space-adventure/build/Release/generators/deactivate_conanrunenv-release-armv8.sh"
