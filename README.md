@@ -15,7 +15,8 @@ You need `conan` and `cmake`. If you're using a Mac:
 ```
 brew install conan
 conan profile detect
-```
+
+brew install cmake
 
 ### Build
 
