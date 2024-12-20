@@ -10,7 +10,7 @@ Open Xcode and click the run button.
 
 ### Requirements
 
-You need `conan`. If you're using a Mac:
+You need `conan` and `cmake`. If you're using a Mac:
 
 ```
 brew install conan
