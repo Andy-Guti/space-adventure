@@ -18,6 +18,8 @@ conan profile detect
 
 brew install cmake
 
+```
+
 ### Build
 
 Run the following two commands to install all necessary libraries and build the game.
